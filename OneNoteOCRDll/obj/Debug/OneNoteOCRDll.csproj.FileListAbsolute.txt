@@ -1,0 +1,8 @@
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteOCRDll\bin\Debug\OneNoteOCRDll.dll
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteOCRDll\bin\Debug\OneNoteOCRDll.pdb
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteOCRDll\obj\Debug\OneNoteOCRDll.csprojResolveAssemblyReference.cache
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteOCRDll\obj\Debug\Interop.Microsoft.Office.Interop.OneNote.dll
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteOCRDll\obj\Debug\Interop.OneNoteEx.dll
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteOCRDll\obj\Debug\OneNoteOCRDll.csproj.ResolveComReference.cache
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteOCRDll\obj\Debug\OneNoteOCRDll.dll
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteOCRDll\obj\Debug\OneNoteOCRDll.pdb

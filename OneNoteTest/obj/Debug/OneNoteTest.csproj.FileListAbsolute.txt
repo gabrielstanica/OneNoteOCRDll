@@ -1,0 +1,11 @@
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteTest\bin\Debug\OneNoteTest.exe.config
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteTest\bin\Debug\OneNoteTest.exe
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteTest\bin\Debug\OneNoteTest.pdb
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteTest\bin\Debug\OneNoteOCRDll.dll
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteTest\bin\Debug\OneNoteOCRDll.pdb
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteTest\obj\Debug\OneNoteTest.csprojResolveAssemblyReference.cache
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteTest\obj\Debug\OneNoteTest.exe
+C:\Users\gastanica\Desktop\OneNoteOCRDll\OneNoteTest\obj\Debug\OneNoteTest.pdb
+G:\new de aranjat\aranjate\work\Coding Staff\OneNoteOCRDll\OneNoteTest\bin\Debug\OneNoteTest.exe.config
+G:\new de aranjat\aranjate\work\Coding Staff\OneNoteOCRDll\OneNoteTest\obj\Debug\OneNoteTest.exe
+G:\new de aranjat\aranjate\work\Coding Staff\OneNoteOCRDll\OneNoteTest\obj\Debug\OneNoteTest.pdb
